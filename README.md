@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jin Kuan Moo</h1>
-<h3 align="center">A ready-to-go full stack developer from Malaysia who can speaks Chinese, English and Malay</h3>
+<h3 align="center">A ready-to-go full stack developer from Malaysia who speaks Chinese, English and Malay like a pro</h3>
 
 - 🔭 I’m currently working on **my Computer Science Master Programme in UCD**
 
