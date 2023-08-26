@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any frontend, backend, or data projects with any of the stacks below**
 
-- 🤝 I’m looking for help with **a software engineer or data analyst job**
+- 🤝 I’m looking for help with **getting a software engineer or data analyst job**
 
 - 💬 Ask me about **JavaScript, Python, or Machine Learning**
 
